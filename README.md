@@ -1,21 +1,28 @@
 # IA2S
 
 
-# EHMS-2020 Dataset Raw 
+# Table Template
 
-| Classifier     | Column 2 Header     | Column 3 Header     |
-|---------------------|---------------------|---------------------|
-| SVM        | Row 1 Cell 2        | Row 1 Cell 3        |
-| XGBOOST        | Row 2 Cell 2        | Row 2 Cell 3        |
+| Class              | Precision | Recall | F1-Score | Support |
+|:-------------------|----------:|-------:|---------:|--------:|
+| Class 0            |    0.85   | 0.82   |   0.83   |   1200  |
+| Class 1            |    0.78   | 0.81   |   0.79   |    800  |
+| Class 2            |    0.92   | 0.88   |   0.90   |   1500  |
+| **Macro Avg**      |    0.85   | 0.84   |   0.84   |   3500  |
+| **Weighted Avg**   |    0.86   | 0.85   |   0.85   |   3500  |
 
-# Table with Alignment Options
-| Left-Aligned        | Center-Aligned       | Right-Aligned       |
-|:--------------------|:--------------------:|--------------------:|
-| Data left           | Data center          |          Data right |
-| More content        | Centered info        |         Numbers 123 |
+| Class              | Precision | Recall | F1-Score | Support |
+|:-------------------|----------:|-------:|---------:|--------:|
+| Class 0            |    0.85   | 0.82   |   0.83   |   1200  |
+| Class 1            |    0.78   | 0.81   |   0.79   |    800  |
+| Class 2            |    0.92   | 0.88   |   0.90   |   1500  |
+| **Macro Avg**      |    0.85   | 0.84   |   0.84   |   3500  |
+| **Weighted Avg**   |    0.86   | 0.85   |   0.85   |   3500  |
 
-# Empty Cells and Formatting
-| Header 1            | Header 2            | Header 3            |
-|---------------------|---------------------|---------------------|
-| Filled cell         |                     | Empty cell          |
-|                     | Middle content      |                     |
+| Class              | Precision | Recall | F1-Score | Support |
+|:-------------------|----------:|-------:|---------:|--------:|
+| Class 0            |    0.85   | 0.82   |   0.83   |   1200  |
+| Class 1            |    0.78   | 0.81   |   0.79   |    800  |
+| Class 2            |    0.92   | 0.88   |   0.90   |   1500  |
+| **Macro Avg**      |    0.85   | 0.84   |   0.84   |   3500  |
+| **Weighted Avg**   |    0.86   | 0.85   |   0.85   |   3500  |
